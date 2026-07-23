@@ -10,3 +10,6 @@
 
 Currently learning about Git & GitHub. Have just learned that GitHub is like the CodeBase where anyone from anywhere can access my code or yours.
 I promise to have learnt more about Git, GitHub and become fluent at it by tomorrow itself.
+
+And I deliberately failed at it.
+I promise to learn it tomorrow for sure.
